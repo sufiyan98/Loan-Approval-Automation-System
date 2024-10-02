@@ -30,5 +30,3 @@ Run as
   Configure MySQL and run the api's
 ```
 
-
-## Screenshots
